@@ -1,0 +1,15 @@
+{
+  "name": "electron-dl-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:abmagil/electron-dl-bug.git",
+  "author": "Aaron Magil <abmagil@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^1.7.10",
+    "electron-dl": "^1.10.0"
+  }
+}
